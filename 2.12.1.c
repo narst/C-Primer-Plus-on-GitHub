@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main(void)
+{
+	printf("³ÂÎ°ºÀ\n");
+	printf("Î°ºÀ\n");
+	printf("³Â\n");
+	printf("³ÂÎ°ºÀ\n");
+	return 0;
+}
